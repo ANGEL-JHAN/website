@@ -9,9 +9,9 @@ const values = [
 ];
 
 const team = [
-  { name: "Carlos Méndez", role: "Director Creativo" },
+  { name: "Angel Jhan", role: "Director Creativo" },
   { name: "Ana García", role: "Desarrolladora Frontend" },
-  { name: "Luis Torres", role: "Desarrollador Backend" },
+  { name: "Angel Jhan", role: "Desarrollador Backend" },
   { name: "María López", role: "Diseñadora UX/UI" },
 ];
 
